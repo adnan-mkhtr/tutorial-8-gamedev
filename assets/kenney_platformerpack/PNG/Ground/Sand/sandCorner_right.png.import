@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bosvvd4xlxxhi"
-path="res://.godot/imported/sandCorner_right.png-c91e231dff01679f926a874dba4e134d.ctex"
+path="res://.godot/imported/sandCorner_right.png-086b10dcd6b96599878221d8e185d0b2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Ground/Sand/sandCorner_right.png"
-dest_files=["res://.godot/imported/sandCorner_right.png-c91e231dff01679f926a874dba4e134d.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Ground/Sand/sandCorner_right.png"
+dest_files=["res://.godot/imported/sandCorner_right.png-086b10dcd6b96599878221d8e185d0b2.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crsawlxlvn0lg"
-path="res://.godot/imported/fishBlue_fall.png-60f08c88e89f77c01c8bf7edee979c98.ctex"
+path="res://.godot/imported/fishBlue_fall.png-6159d401417532be695801ffa4f8d508.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Enemies/fishBlue_fall.png"
-dest_files=["res://.godot/imported/fishBlue_fall.png-60f08c88e89f77c01c8bf7edee979c98.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Enemies/fishBlue_fall.png"
+dest_files=["res://.godot/imported/fishBlue_fall.png-6159d401417532be695801ffa4f8d508.ctex"]
 
 [params]
 

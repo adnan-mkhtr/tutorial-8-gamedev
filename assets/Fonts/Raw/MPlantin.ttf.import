@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://bp77rybqujqtc"
-path="res://.godot/imported/MPlantin.ttf-eaf5f6acdaf8f779aace67c2eab93834.fontdata"
+path="res://.godot/imported/MPlantin.ttf-8e30cbfd06610040456d199674b80054.fontdata"
 
 [deps]
 
-source_file="res://assets/Fonts/Raw/MPlantin.ttf"
-dest_files=["res://.godot/imported/MPlantin.ttf-eaf5f6acdaf8f779aace67c2eab93834.fontdata"]
+source_file="res://Assets/Fonts/Raw/MPlantin.ttf"
+dest_files=["res://.godot/imported/MPlantin.ttf-8e30cbfd06610040456d199674b80054.fontdata"]
 
 [params]
 

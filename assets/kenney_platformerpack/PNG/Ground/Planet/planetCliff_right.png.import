@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c08ld7u77ewwp"
-path="res://.godot/imported/planetCliff_right.png-975be51af9539a7b8a18c1e8f41756e9.ctex"
+path="res://.godot/imported/planetCliff_right.png-587508a91953e916c17a82180b9696c6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Ground/Planet/planetCliff_right.png"
-dest_files=["res://.godot/imported/planetCliff_right.png-975be51af9539a7b8a18c1e8f41756e9.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Ground/Planet/planetCliff_right.png"
+dest_files=["res://.godot/imported/planetCliff_right.png-587508a91953e916c17a82180b9696c6.ctex"]
 
 [params]
 

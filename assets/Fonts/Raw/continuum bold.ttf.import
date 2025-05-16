@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://c121c4fbjfrrn"
-path="res://.godot/imported/continuum bold.ttf-b036e2b251bbba54199a3a655deeb5fc.fontdata"
+path="res://.godot/imported/continuum bold.ttf-e41d4d8c4956c916060b96bd6b46890e.fontdata"
 
 [deps]
 
-source_file="res://assets/Fonts/Raw/continuum bold.ttf"
-dest_files=["res://.godot/imported/continuum bold.ttf-b036e2b251bbba54199a3a655deeb5fc.fontdata"]
+source_file="res://Assets/Fonts/Raw/continuum bold.ttf"
+dest_files=["res://.godot/imported/continuum bold.ttf-e41d4d8c4956c916060b96bd6b46890e.fontdata"]
 
 [params]
 

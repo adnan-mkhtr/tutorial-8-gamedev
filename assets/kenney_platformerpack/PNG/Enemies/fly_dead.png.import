@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnsxcyd4xxc2m"
-path="res://.godot/imported/fly_dead.png-8cec92537f7912e7498d15084f34be6f.ctex"
+path="res://.godot/imported/fly_dead.png-da0234a514b6c192385999b1417f664b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Enemies/fly_dead.png"
-dest_files=["res://.godot/imported/fly_dead.png-8cec92537f7912e7498d15084f34be6f.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Enemies/fly_dead.png"
+dest_files=["res://.godot/imported/fly_dead.png-da0234a514b6c192385999b1417f664b.ctex"]
 
 [params]
 

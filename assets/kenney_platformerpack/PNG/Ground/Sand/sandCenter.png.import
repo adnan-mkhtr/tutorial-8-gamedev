@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqa34b4flna1a"
-path="res://.godot/imported/sandCenter.png-bd6cac1ae65144a92d7f4564f761b881.ctex"
+path="res://.godot/imported/sandCenter.png-e9f5dd9c9e5494e57ec2c4ab59d3736e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Ground/Sand/sandCenter.png"
-dest_files=["res://.godot/imported/sandCenter.png-bd6cac1ae65144a92d7f4564f761b881.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Ground/Sand/sandCenter.png"
+dest_files=["res://.godot/imported/sandCenter.png-e9f5dd9c9e5494e57ec2c4ab59d3736e.ctex"]
 
 [params]
 

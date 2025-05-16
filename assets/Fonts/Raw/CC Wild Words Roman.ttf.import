@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://d32e6gjiaogj1"
-path="res://.godot/imported/CC Wild Words Roman.ttf-fe82fbc2f38e416d4c245c4515de4668.fontdata"
+path="res://.godot/imported/CC Wild Words Roman.ttf-5606012eece7560d613e9523b66f8142.fontdata"
 
 [deps]
 
-source_file="res://assets/Fonts/Raw/CC Wild Words Roman.ttf"
-dest_files=["res://.godot/imported/CC Wild Words Roman.ttf-fe82fbc2f38e416d4c245c4515de4668.fontdata"]
+source_file="res://Assets/Fonts/Raw/CC Wild Words Roman.ttf"
+dest_files=["res://.godot/imported/CC Wild Words Roman.ttf-5606012eece7560d613e9523b66f8142.fontdata"]
 
 [params]
 

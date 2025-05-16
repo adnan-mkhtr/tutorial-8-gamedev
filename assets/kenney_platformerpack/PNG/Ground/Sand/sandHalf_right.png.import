@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgy2gbbd8pvjw"
-path="res://.godot/imported/sandHalf_right.png-f180aa1c58a6ec865ecf6c148d166e28.ctex"
+path="res://.godot/imported/sandHalf_right.png-71abee90bcfd26aceba37255a4dbae38.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Ground/Sand/sandHalf_right.png"
-dest_files=["res://.godot/imported/sandHalf_right.png-f180aa1c58a6ec865ecf6c148d166e28.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Ground/Sand/sandHalf_right.png"
+dest_files=["res://.godot/imported/sandHalf_right.png-71abee90bcfd26aceba37255a4dbae38.ctex"]
 
 [params]
 

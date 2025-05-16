@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://j43a27uwn35u"
-path="res://.godot/imported/stoneCorner_right.png-c8a57f18000af81b040adf00b67b858f.ctex"
+path="res://.godot/imported/stoneCorner_right.png-99a4effcb441fa22fdf87438672161f0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Ground/Stone/stoneCorner_right.png"
-dest_files=["res://.godot/imported/stoneCorner_right.png-c8a57f18000af81b040adf00b67b858f.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Ground/Stone/stoneCorner_right.png"
+dest_files=["res://.godot/imported/stoneCorner_right.png-99a4effcb441fa22fdf87438672161f0.ctex"]
 
 [params]
 

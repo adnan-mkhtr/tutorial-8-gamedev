@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxhot7drhh08d"
-path="res://.godot/imported/alienBeige_walk1.png-e2ae3a2f88a0edc40f884e249e7af34b.ctex"
+path="res://.godot/imported/alienBeige_walk1.png-136b8c6814c27fe6e56cc23fb983af04.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Players/128x256/Beige/alienBeige_walk1.png"
-dest_files=["res://.godot/imported/alienBeige_walk1.png-e2ae3a2f88a0edc40f884e249e7af34b.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Players/128x256/Beige/alienBeige_walk1.png"
+dest_files=["res://.godot/imported/alienBeige_walk1.png-136b8c6814c27fe6e56cc23fb983af04.ctex"]
 
 [params]
 

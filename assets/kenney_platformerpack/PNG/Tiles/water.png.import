@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7ctdg52qkloj"
-path="res://.godot/imported/water.png-0a2771ac707571571755d5176c1b2664.ctex"
+path="res://.godot/imported/water.png-8be7f99da189bec40fc447057e2dfa53.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Tiles/water.png"
-dest_files=["res://.godot/imported/water.png-0a2771ac707571571755d5176c1b2664.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Tiles/water.png"
+dest_files=["res://.godot/imported/water.png-8be7f99da189bec40fc447057e2dfa53.ctex"]
 
 [params]
 

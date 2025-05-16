@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c167va8tatd4g"
-path="res://.godot/imported/alienBiege_jump.png-baa83b72a4551c413e97479b3244ee79.ctex"
+path="res://.godot/imported/alienBiege_jump.png-4626de1f61961801ac0cf48a7d29cb48.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Players/Variable sizes/Beige/alienBiege_jump.png"
-dest_files=["res://.godot/imported/alienBiege_jump.png-baa83b72a4551c413e97479b3244ee79.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Players/Variable sizes/Beige/alienBiege_jump.png"
+dest_files=["res://.godot/imported/alienBiege_jump.png-4626de1f61961801ac0cf48a7d29cb48.ctex"]
 
 [params]
 

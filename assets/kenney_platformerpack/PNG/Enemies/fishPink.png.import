@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcimvgdpc3ml1"
-path="res://.godot/imported/fishPink.png-b1b1e1b94c9973176bfe848d430c69a0.ctex"
+path="res://.godot/imported/fishPink.png-bacd1a7489057195efd6e5f6175a3ebe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Enemies/fishPink.png"
-dest_files=["res://.godot/imported/fishPink.png-b1b1e1b94c9973176bfe848d430c69a0.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Enemies/fishPink.png"
+dest_files=["res://.godot/imported/fishPink.png-bacd1a7489057195efd6e5f6175a3ebe.ctex"]
 
 [params]
 

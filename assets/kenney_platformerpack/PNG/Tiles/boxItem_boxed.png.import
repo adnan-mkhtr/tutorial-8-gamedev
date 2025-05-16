@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://durmg43d14edb"
-path="res://.godot/imported/boxItem_boxed.png-2f97bc5cbc8935b1d7676db21445440e.ctex"
+path="res://.godot/imported/boxItem_boxed.png-e01d0f245ef3b401f7333ea3116e81fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Tiles/boxItem_boxed.png"
-dest_files=["res://.godot/imported/boxItem_boxed.png-2f97bc5cbc8935b1d7676db21445440e.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Tiles/boxItem_boxed.png"
+dest_files=["res://.godot/imported/boxItem_boxed.png-e01d0f245ef3b401f7333ea3116e81fc.ctex"]
 
 [params]
 

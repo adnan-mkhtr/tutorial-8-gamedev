@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c66y62qtd1mni"
-path="res://.godot/imported/dirtHalf.png-01ea34492c05448f221a783b70bd556c.ctex"
+path="res://.godot/imported/dirtHalf.png-d3106f976c27c3518fdb722e3502e58b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Ground/Dirt/dirtHalf.png"
-dest_files=["res://.godot/imported/dirtHalf.png-01ea34492c05448f221a783b70bd556c.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Ground/Dirt/dirtHalf.png"
+dest_files=["res://.godot/imported/dirtHalf.png-d3106f976c27c3518fdb722e3502e58b.ctex"]
 
 [params]
 

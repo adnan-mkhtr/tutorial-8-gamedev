@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqdrmbsgr6aoe"
-path="res://.godot/imported/planetCenter.png-b7ee2cde396a1e87c12af917b3b033e9.ctex"
+path="res://.godot/imported/planetCenter.png-01dd18a87d1a0b14db624eb739c5473c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Ground/Planet/planetCenter.png"
-dest_files=["res://.godot/imported/planetCenter.png-b7ee2cde396a1e87c12af917b3b033e9.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Ground/Planet/planetCenter.png"
+dest_files=["res://.godot/imported/planetCenter.png-01dd18a87d1a0b14db624eb739c5473c.ctex"]
 
 [params]
 

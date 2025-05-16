@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brgxv7252ixbr"
-path="res://.godot/imported/alienGreen_hit.png-e8d4a13366153ddaa482059017d8cb6c.ctex"
+path="res://.godot/imported/alienGreen_hit.png-d76fc24653cca1b92229621363b9d60c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Players/128x256/Green/alienGreen_hit.png"
-dest_files=["res://.godot/imported/alienGreen_hit.png-e8d4a13366153ddaa482059017d8cb6c.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Players/128x256/Green/alienGreen_hit.png"
+dest_files=["res://.godot/imported/alienGreen_hit.png-d76fc24653cca1b92229621363b9d60c.ctex"]
 
 [params]
 

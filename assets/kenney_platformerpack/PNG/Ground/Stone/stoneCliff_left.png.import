@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfteapbjrlfmd"
-path="res://.godot/imported/stoneCliff_left.png-0d57c80e9f474f673ef2e55bfc1e9be6.ctex"
+path="res://.godot/imported/stoneCliff_left.png-4d6d74bd6dd5ae798f242cb0d77901bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Ground/Stone/stoneCliff_left.png"
-dest_files=["res://.godot/imported/stoneCliff_left.png-0d57c80e9f474f673ef2e55bfc1e9be6.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Ground/Stone/stoneCliff_left.png"
+dest_files=["res://.godot/imported/stoneCliff_left.png-4d6d74bd6dd5ae798f242cb0d77901bc.ctex"]
 
 [params]
 

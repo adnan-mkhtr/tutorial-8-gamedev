@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkgm7xkpxjj7u"
-path="res://.godot/imported/snowHill_left.png-0ea64c1df62bfcebc775e8bb5a9476d6.ctex"
+path="res://.godot/imported/snowHill_left.png-d1ab1fe59b481b2d3153f08614169b11.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Ground/Snow/snowHill_left.png"
-dest_files=["res://.godot/imported/snowHill_left.png-0ea64c1df62bfcebc775e8bb5a9476d6.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Ground/Snow/snowHill_left.png"
+dest_files=["res://.godot/imported/snowHill_left.png-d1ab1fe59b481b2d3153f08614169b11.ctex"]
 
 [params]
 

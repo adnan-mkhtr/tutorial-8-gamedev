@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpyqh3n0qyoyc"
-path="res://.godot/imported/vector_backgrounds.svg-b4b6046bcc9fd8166401787e2e89f08f.ctex"
+path="res://.godot/imported/vector_backgrounds.svg-07ce5397a1f22c9d1aed16c8365b8112.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/Vector/vector_backgrounds.svg"
-dest_files=["res://.godot/imported/vector_backgrounds.svg-b4b6046bcc9fd8166401787e2e89f08f.ctex"]
+source_file="res://Assets/kenney_platformerpack/Vector/vector_backgrounds.svg"
+dest_files=["res://.godot/imported/vector_backgrounds.svg-07ce5397a1f22c9d1aed16c8365b8112.ctex"]
 
 [params]
 

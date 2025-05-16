@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsmtkdgb062c"
-path="res://.godot/imported/planetHalf.png-23c01d7b965768b230a4b0116cb870d7.ctex"
+path="res://.godot/imported/planetHalf.png-5509576043d2c07d26bbb3b2baccadbf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Ground/Planet/planetHalf.png"
-dest_files=["res://.godot/imported/planetHalf.png-23c01d7b965768b230a4b0116cb870d7.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Ground/Planet/planetHalf.png"
+dest_files=["res://.godot/imported/planetHalf.png-5509576043d2c07d26bbb3b2baccadbf.ctex"]
 
 [params]
 

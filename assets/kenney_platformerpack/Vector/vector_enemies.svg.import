@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1ltvoxjicjqh"
-path="res://.godot/imported/vector_enemies.svg-ef18617efc738b634e6f4390a26d0b53.ctex"
+path="res://.godot/imported/vector_enemies.svg-e542b3f3f2323045479991de73a40f44.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/Vector/vector_enemies.svg"
-dest_files=["res://.godot/imported/vector_enemies.svg-ef18617efc738b634e6f4390a26d0b53.ctex"]
+source_file="res://Assets/kenney_platformerpack/Vector/vector_enemies.svg"
+dest_files=["res://.godot/imported/vector_enemies.svg-e542b3f3f2323045479991de73a40f44.ctex"]
 
 [params]
 

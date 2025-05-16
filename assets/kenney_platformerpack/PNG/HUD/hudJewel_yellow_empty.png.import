@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdb1cmqg0br67"
-path="res://.godot/imported/hudJewel_yellow_empty.png-771806b48715ce3cc96be4c6e99959ae.ctex"
+path="res://.godot/imported/hudJewel_yellow_empty.png-54d8987f932a0743402245409680d589.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/HUD/hudJewel_yellow_empty.png"
-dest_files=["res://.godot/imported/hudJewel_yellow_empty.png-771806b48715ce3cc96be4c6e99959ae.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/HUD/hudJewel_yellow_empty.png"
+dest_files=["res://.godot/imported/hudJewel_yellow_empty.png-54d8987f932a0743402245409680d589.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kultkhl35kax"
-path="res://.godot/imported/alienPink_swim2.png-f55ecd7b1eff799e0585d7c43fb127aa.ctex"
+path="res://.godot/imported/alienPink_swim2.png-f8eab1d5891fb0ab6d0732cd2b105fb9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Players/128x256/Pink/alienPink_swim2.png"
-dest_files=["res://.godot/imported/alienPink_swim2.png-f55ecd7b1eff799e0585d7c43fb127aa.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Players/128x256/Pink/alienPink_swim2.png"
+dest_files=["res://.godot/imported/alienPink_swim2.png-f8eab1d5891fb0ab6d0732cd2b105fb9.ctex"]
 
 [params]
 

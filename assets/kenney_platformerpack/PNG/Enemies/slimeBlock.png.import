@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cewg0bmm7mp3b"
-path="res://.godot/imported/slimeBlock.png-1192f1799938be05adf4c855e09436ab.ctex"
+path="res://.godot/imported/slimeBlock.png-f16716015b964a035c068c23725512b0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Enemies/slimeBlock.png"
-dest_files=["res://.godot/imported/slimeBlock.png-1192f1799938be05adf4c855e09436ab.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Enemies/slimeBlock.png"
+dest_files=["res://.godot/imported/slimeBlock.png-f16716015b964a035c068c23725512b0.ctex"]
 
 [params]
 

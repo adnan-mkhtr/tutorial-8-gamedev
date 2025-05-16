@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drsvhi6me8ppj"
-path="res://.godot/imported/alienYellow_walk1.png-a6222f7a746b64248d6052784223a007.ctex"
+path="res://.godot/imported/alienYellow_walk1.png-bd78b95d4ce5cb37d8b0fc1d63b2db8f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Players/Variable sizes/Yellow/alienYellow_walk1.png"
-dest_files=["res://.godot/imported/alienYellow_walk1.png-a6222f7a746b64248d6052784223a007.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Players/Variable sizes/Yellow/alienYellow_walk1.png"
+dest_files=["res://.godot/imported/alienYellow_walk1.png-bd78b95d4ce5cb37d8b0fc1d63b2db8f.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccoe67fi8083e"
-path="res://.godot/imported/snowCliffAlt_right.png-de17d78ec58f93742f279cc0dfb5d58e.ctex"
+path="res://.godot/imported/snowCliffAlt_right.png-4483ec73e99709182fa504313c783802.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Ground/Snow/snowCliffAlt_right.png"
-dest_files=["res://.godot/imported/snowCliffAlt_right.png-de17d78ec58f93742f279cc0dfb5d58e.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Ground/Snow/snowCliffAlt_right.png"
+dest_files=["res://.godot/imported/snowCliffAlt_right.png-4483ec73e99709182fa504313c783802.ctex"]
 
 [params]
 

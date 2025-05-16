@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cu862pfvjfr87"
-path="res://.godot/imported/flagGreen_down.png-668e0b5e61e9c51dce6d075987f04319.ctex"
+path="res://.godot/imported/flagGreen_down.png-d269b9ef5a18f11cf56aef09eed7d2f0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Items/flagGreen_down.png"
-dest_files=["res://.godot/imported/flagGreen_down.png-668e0b5e61e9c51dce6d075987f04319.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Items/flagGreen_down.png"
+dest_files=["res://.godot/imported/flagGreen_down.png-d269b9ef5a18f11cf56aef09eed7d2f0.ctex"]
 
 [params]
 

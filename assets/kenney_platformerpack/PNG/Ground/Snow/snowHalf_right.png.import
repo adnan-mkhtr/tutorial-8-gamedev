@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chombitxpwmh1"
-path="res://.godot/imported/snowHalf_right.png-4f0915b6bdf107ddb8f5a3841cf1f2b1.ctex"
+path="res://.godot/imported/snowHalf_right.png-cd81b7b6da6b764a608a0b64ca16eac5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Ground/Snow/snowHalf_right.png"
-dest_files=["res://.godot/imported/snowHalf_right.png-4f0915b6bdf107ddb8f5a3841cf1f2b1.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Ground/Snow/snowHalf_right.png"
+dest_files=["res://.godot/imported/snowHalf_right.png-cd81b7b6da6b764a608a0b64ca16eac5.ctex"]
 
 [params]
 

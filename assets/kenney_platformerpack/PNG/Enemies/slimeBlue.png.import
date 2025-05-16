@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwhfa5otjvtnw"
-path="res://.godot/imported/slimeBlue.png-df8255d04fb4176a78ec14248c132cc5.ctex"
+path="res://.godot/imported/slimeBlue.png-0a309b6fd064debb1b2f8737d5314165.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Enemies/slimeBlue.png"
-dest_files=["res://.godot/imported/slimeBlue.png-df8255d04fb4176a78ec14248c132cc5.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Enemies/slimeBlue.png"
+dest_files=["res://.godot/imported/slimeBlue.png-0a309b6fd064debb1b2f8737d5314165.ctex"]
 
 [params]
 

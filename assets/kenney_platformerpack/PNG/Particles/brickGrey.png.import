@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4g2mc884w27m"
-path="res://.godot/imported/brickGrey.png-ac2ebb6b8588f909670d2920ad1ffaf6.ctex"
+path="res://.godot/imported/brickGrey.png-1012d549d15c6d698e9ce8047869f4cc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Particles/brickGrey.png"
-dest_files=["res://.godot/imported/brickGrey.png-ac2ebb6b8588f909670d2920ad1ffaf6.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Particles/brickGrey.png"
+dest_files=["res://.godot/imported/brickGrey.png-1012d549d15c6d698e9ce8047869f4cc.ctex"]
 
 [params]
 

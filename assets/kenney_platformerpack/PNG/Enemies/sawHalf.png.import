@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bv65ivtpnmy3d"
-path="res://.godot/imported/sawHalf.png-eb7e0afdd40e5ae1d56b71da1eb15ef8.ctex"
+path="res://.godot/imported/sawHalf.png-dbb3b3e84b67cca1364575a6d45281e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Enemies/sawHalf.png"
-dest_files=["res://.godot/imported/sawHalf.png-eb7e0afdd40e5ae1d56b71da1eb15ef8.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Enemies/sawHalf.png"
+dest_files=["res://.godot/imported/sawHalf.png-dbb3b3e84b67cca1364575a6d45281e2.ctex"]
 
 [params]
 

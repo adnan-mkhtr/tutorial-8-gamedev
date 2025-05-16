@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://psp2y2pxgys8"
-path="res://.godot/imported/PersonifiedUXRegular.ttf-d215c30787767954813e326a160620ab.fontdata"
+path="res://.godot/imported/PersonifiedUXRegular.ttf-ac6e7f74c8cc5c156d94f775c011a231.fontdata"
 
 [deps]
 
-source_file="res://assets/Fonts/Raw/PersonifiedUXRegular.ttf"
-dest_files=["res://.godot/imported/PersonifiedUXRegular.ttf-d215c30787767954813e326a160620ab.fontdata"]
+source_file="res://Assets/Fonts/Raw/PersonifiedUXRegular.ttf"
+dest_files=["res://.godot/imported/PersonifiedUXRegular.ttf-ac6e7f74c8cc5c156d94f775c011a231.fontdata"]
 
 [params]
 

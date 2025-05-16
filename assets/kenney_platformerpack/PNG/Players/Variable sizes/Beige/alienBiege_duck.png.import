@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://n0sq6rm4vr0b"
-path="res://.godot/imported/alienBiege_duck.png-a386df5e9c6210af2327866b9052b86a.ctex"
+path="res://.godot/imported/alienBiege_duck.png-2334e981e1d23ddab7f49f92f081139b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Players/Variable sizes/Beige/alienBiege_duck.png"
-dest_files=["res://.godot/imported/alienBiege_duck.png-a386df5e9c6210af2327866b9052b86a.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Players/Variable sizes/Beige/alienBiege_duck.png"
+dest_files=["res://.godot/imported/alienBiege_duck.png-2334e981e1d23ddab7f49f92f081139b.ctex"]
 
 [params]
 

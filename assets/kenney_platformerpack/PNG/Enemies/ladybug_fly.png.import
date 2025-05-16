@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1vujgpgwabid"
-path="res://.godot/imported/ladybug_fly.png-c328897d00a4174280bcd76a5bce505a.ctex"
+path="res://.godot/imported/ladybug_fly.png-ae84b5795d0838e2bae9260b5bc56f07.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Enemies/ladybug_fly.png"
-dest_files=["res://.godot/imported/ladybug_fly.png-c328897d00a4174280bcd76a5bce505a.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Enemies/ladybug_fly.png"
+dest_files=["res://.godot/imported/ladybug_fly.png-ae84b5795d0838e2bae9260b5bc56f07.ctex"]
 
 [params]
 

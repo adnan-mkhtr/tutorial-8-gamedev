@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c64a1s5ywipgp"
-path="res://.godot/imported/dirtCliff_right.png-585c05d2ca39b2b03204630c755dd9bf.ctex"
+path="res://.godot/imported/dirtCliff_right.png-681b9b38a611ce5a0411027fab1568ed.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Ground/Dirt/dirtCliff_right.png"
-dest_files=["res://.godot/imported/dirtCliff_right.png-585c05d2ca39b2b03204630c755dd9bf.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Ground/Dirt/dirtCliff_right.png"
+dest_files=["res://.godot/imported/dirtCliff_right.png-681b9b38a611ce5a0411027fab1568ed.ctex"]
 
 [params]
 

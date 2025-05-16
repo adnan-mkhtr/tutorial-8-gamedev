@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://3oiwaaet0wth"
-path="res://.godot/imported/GuldScript_PersonalUseOnly.ttf-ff41e960804d1cfb9f7b99c7dc183baa.fontdata"
+path="res://.godot/imported/GuldScript_PersonalUseOnly.ttf-289cf3a9dfd4bfb4ba6600b5d8095edf.fontdata"
 
 [deps]
 
-source_file="res://assets/Fonts/Raw/GuldScript_PersonalUseOnly.ttf"
-dest_files=["res://.godot/imported/GuldScript_PersonalUseOnly.ttf-ff41e960804d1cfb9f7b99c7dc183baa.fontdata"]
+source_file="res://Assets/Fonts/Raw/GuldScript_PersonalUseOnly.ttf"
+dest_files=["res://.godot/imported/GuldScript_PersonalUseOnly.ttf-289cf3a9dfd4bfb4ba6600b5d8095edf.fontdata"]
 
 [params]
 

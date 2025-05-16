@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bubudlfiots3n"
-path="res://.godot/imported/snow.png-4065968a286d056353383b2aaa595890.ctex"
+path="res://.godot/imported/snow.png-75a88271ec11b8b738ca8efd85bf9a25.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Ground/Snow/snow.png"
-dest_files=["res://.godot/imported/snow.png-4065968a286d056353383b2aaa595890.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Ground/Snow/snow.png"
+dest_files=["res://.godot/imported/snow.png-75a88271ec11b8b738ca8efd85bf9a25.ctex"]
 
 [params]
 

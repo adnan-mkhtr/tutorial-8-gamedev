@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dg8ygvps3gp8y"
-path="res://.godot/imported/alienBlue_swim2.png-57e1c918d20a14b6c3f420a50d156650.ctex"
+path="res://.godot/imported/alienBlue_swim2.png-0b7fccee799b7d4e9cfeb9e927d7a3a0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Players/Variable sizes/Blue/alienBlue_swim2.png"
-dest_files=["res://.godot/imported/alienBlue_swim2.png-57e1c918d20a14b6c3f420a50d156650.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Players/Variable sizes/Blue/alienBlue_swim2.png"
+dest_files=["res://.godot/imported/alienBlue_swim2.png-0b7fccee799b7d4e9cfeb9e927d7a3a0.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4xsjlj10107t"
-path="res://.godot/imported/wormPink_dead.png-d87b5c1c24aec79af3c73625c5976490.ctex"
+path="res://.godot/imported/wormPink_dead.png-020863ec70e992be4f485460777f3144.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Enemies/wormPink_dead.png"
-dest_files=["res://.godot/imported/wormPink_dead.png-d87b5c1c24aec79af3c73625c5976490.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Enemies/wormPink_dead.png"
+dest_files=["res://.godot/imported/wormPink_dead.png-020863ec70e992be4f485460777f3144.ctex"]
 
 [params]
 

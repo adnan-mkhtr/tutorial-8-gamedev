@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8fmw0cvk45by"
-path="res://.godot/imported/boxExplosive_disabled.png-113c758eaf45dddcd29c06e8ce31f8b4.ctex"
+path="res://.godot/imported/boxExplosive_disabled.png-02f2ba8bfb150c099f96177bd6605f5e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformerpack/PNG/Tiles/boxExplosive_disabled.png"
-dest_files=["res://.godot/imported/boxExplosive_disabled.png-113c758eaf45dddcd29c06e8ce31f8b4.ctex"]
+source_file="res://Assets/kenney_platformerpack/PNG/Tiles/boxExplosive_disabled.png"
+dest_files=["res://.godot/imported/boxExplosive_disabled.png-02f2ba8bfb150c099f96177bd6605f5e.ctex"]
 
 [params]
 
